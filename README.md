@@ -1,16 +1,4 @@
 # <p align="center">TLOVER<p>
-<p align="center"><img src="https://user-images.githubusercontent.com/61726631/168746638-4f9c02ca-c42e-4ed7-8247-a65e7d7d7892.jpg"/><p>
-  
-<div align="center"><h2>나만의 여행 다이어리, <br>
-                                   너와 나의 여행 다이어리, <br>
-                                    내가 기록하고, 너와 공유하는 여행 다이어리 <br></h2></div>
-                                    <br>
-                                    
-## <p align="center">프로젝트 소개</p>
-●TLOVER는 여행 계획과 일기를 작성하고 친구들과 공유할 수 있게 해주며, 내 취향 일기를 추천받고 모을 수 있게 해줍니다.<br>
-
-<br>
-
 
 ## <p align="center"> 실행 화면 </p>
 <p align="center">
@@ -23,6 +11,13 @@
 <img src="https://i.esdrop.com/d/f/4aTmHoKpdK/k4D09tHGe5.png" width="20%" height="30%">
 </p>
 <br>
+  
+## <p align="center">프로젝트 소개</p>
+●TLOVER는 여행 계획과 일기를 작성하고 친구들과 공유할 수 있게 해주며, 내 취향 일기를 추천받고 모을 수 있게 해줍니다.<br>
+
+<br>
+
+
 
 ## <p align="center"> 기술 스택 </p>
 
